@@ -71,7 +71,7 @@
 
 ### Test Ansible 
    ```sh 
-   ansible al -m ping
+   ansible all -m ping
    172.31.28.186 | SUCCESS => {
     "ansible_facts": {
         "discovered_interpreter_python": "/usr/bin/python"
