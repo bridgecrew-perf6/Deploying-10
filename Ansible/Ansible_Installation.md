@@ -69,7 +69,7 @@
    ```sh
    172.xx.xx.xxx
 
-1. Test Ansible 
+### Test Ansible 
    ```sh 
    ansible al -m ping
    172.31.28.186 | SUCCESS => {
